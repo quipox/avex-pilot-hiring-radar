@@ -3,7 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Pilot Hiring Radar</title>
+<title>Pilot Hiring Radar · Aviationexam</title>
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
 <meta name="description" content="Weekly roundup of cadet programmes and low-hours pilot openings, verified on each airline's own page.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,6 +21,9 @@ a{color:var(--accent)}
 .band{background:var(--brand);color:var(--brand-fg);border-bottom:4px solid var(--stripe)}
 .band .in{max-width:1180px;margin:0 auto;padding:28px 16px 24px}
 header h1{font-weight:800;font-size:30px;margin:0;letter-spacing:-.3px}
+.brand{display:block;margin:0 0 14px}
+.brand img{display:block;height:28px;width:auto}
+@media (max-width:500px){.brand img{height:22px}header h1{font-size:26px}}
 header p{margin:4px 0 0;opacity:.8}
 .headline{margin:14px 0 0;font-size:16px;opacity:1!important;max-width:880px}
 section{margin-top:28px}
@@ -74,6 +79,7 @@ footer{margin-top:40px;color:var(--muted);font-size:13px}
 </head>
 <body>
 <header class="band"><div class="in">
+ <a class="brand" href="https://www.aviationexam.com/" target="_blank" rel="noopener"><img src="assets/aviationexam-logo-white.png" alt="Aviationexam" width="210" height="28"></a>
  <h1>Pilot Hiring Radar</h1>
  <p id="weekof">Cadet programmes and low-hours pilot openings, checked weekly</p>
  <p class="headline" id="headline">—</p>
@@ -133,7 +139,7 @@ footer{margin-top:40px;color:var(--muted);font-size:13px}
  </table>
 </section>
 
-<footer>Data gathered from airline and recruiter pages; salaries are approximate and sourced. Not affiliated with any airline. <span id="upd"></span></footer>
+<footer>Data gathered from airline and recruiter pages; salaries are approximate and sourced. A pilot-vacancies resource by Aviationexam. Not affiliated with any airline. <span id="upd"></span></footer>
 </div>
 
 <script>
