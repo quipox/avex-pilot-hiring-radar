@@ -1,0 +1,74 @@
+[
+ {
+  "id": "icao-easa-validation",
+  "from_authority": "ICAO (non-EU)",
+  "to_authority": "EASA (e.g. IAA Ireland)",
+  "route": "Validation or full conversion (Reg. (EU) 2020/723)",
+  "key_steps": "Validation: requested via the employing operator, valid up to 1 year (one extension only while training for a Part-FCL licence); Part-MED Class 1. Conversion: pass all Part-FCL theory exams for the licence (36-month validity); ICAO ATPL holders with >1,500 h (500 multi-pilot) and a current MP type rating are exempt from the ATO course, otherwise an ATO recommendation sets credit. EASA ELP assessment needed; ICAO MCC not recognised.",
+  "official_link": "https://www.iaa.ie/personnel-licensing/pilot-licences-(eu-regulations)/licensing-faq/faqs---pilot-licensing---icao-3rd-country-licences",
+  "verified": "2026-11-05"
+ },
+ {
+  "id": "icao-easa-aesa",
+  "from_authority": "ICAO (non-EU)",
+  "to_authority": "EASA (AESA Spain)",
+  "route": "Validation / rating acceptance",
+  "key_steps": "Validation for a set period; where a flight test is required, AESA must authorise it in advance for CPL/ATPL holders. Full ATPL credit possible under Art. 3(c) of Reg. 2020/723 if ATPL experience is met and a valid type rating is held. Exam details not on the page.",
+  "official_link": "https://www.seguridadaerea.gob.es/en/ambitos/licencias-y-medicina-aeronautica/licencias-al-personal-de-vuelo/licencias-de-vuelo-part-fcl/titulares-de-licencias-de-tercer-pais-oaci",
+  "verified": "2026-11-05"
+ },
+ {
+  "id": "uk-easa",
+  "from_authority": "UK CAA",
+  "to_authority": "EASA",
+  "route": "Third-country licence conversion (since 1 Jan 2021)",
+  "key_steps": "UK licences count as third-country licences. Convert under Reg. (EU) 2020/723 with any EASA Member State authority; an ATO may recommend credit. Exams and tests are set by the national authority you choose.",
+  "official_link": "https://www.easa.europa.eu/en/faq/127223",
+  "verified": "2026-11-05"
+ },
+ {
+  "id": "easa-uk",
+  "from_authority": "EASA",
+  "to_authority": "UK CAA",
+  "route": "Third-country CPL/ATPL conversion (simplified route ended 1 Jan 2023)",
+  "key_steps": "CPL: exams credited if you held a valid IR (UK, EASA or ICAO) in the last 7 years, else resit ATPL/IR exams; CPL and IR skill tests, or a TR skill test if you hold an unrestricted MP type rating. ATPL: all exams unless passed before 1 Jan 2021 with a valid IR; file SRG1192 before booking exams. FRTOL and ELP credited; licence verification needed.",
+  "official_link": "https://www.caa.co.uk/commercial-industry/pilot-licences/non-uk-licences/third-country-cpl-and-atpl-licence-conversion-requirements/",
+  "verified": "2026-11-05"
+ },
+ {
+  "id": "faa-easa",
+  "from_authority": "FAA",
+  "to_authority": "EASA",
+  "route": "EU–US BASA Annex 3 (Pilot Licensing) + TIP-L",
+  "key_steps": "In force since 18 May 2021, covering PPL(A), IR(A) and night rating only. CPL/ATPL are not covered and go via the ICAO third-country route. IR: Air Law, Flight Planning and Communications shown to an examiner (≥50 h IFR PIC) or written exam, then IRE skill test. FAA 'English proficient' counts as ELP 4.",
+  "official_link": "https://www.faa.gov/aircraft/air_cert/international/bilateral_agreements/eu/annex3",
+  "verified": "2026-11-05"
+ },
+ {
+  "id": "easa-gcaa",
+  "from_authority": "EASA",
+  "to_authority": "GCAA (UAE)",
+  "route": "Rendering valid (validation) or conversion",
+  "key_steps": "GCAA may validate an ICAO licence for UAE-registered aircraft; validity can't exceed the foreign licence; current medical and ELP required. Details are in CAR-FCL Appendices 12–13 (could not be opened, so exams/tests unverified). flydubai asks foreign holders to obtain GCAA frozen-ATPL status themselves.",
+  "official_link": "https://www.gcaa.gov.ae/en/epublication/EPublications/Civil%20Aviation%20Regulations%20(CARs)/CAR%20II%20-%20LICENSING%20AND%20TRAINING%20ORGANISATION%20REGULATIONS/Ch.1.pdf",
+  "verified": "partly verified 2026-11-05"
+ },
+ {
+  "id": "easa-gaca",
+  "from_authority": "EASA",
+  "to_authority": "GACA (Saudi Arabia)",
+  "route": "Temporary Flight Authorization (GACAR §61.57); full conversion unverified",
+  "key_steps": "TFA for ICAO holders never issued a GACA certificate: 30 days, one 30-day renewal; needs valid licence and ratings, ELP 4+, Class 1, operator training, KSA AIP knowledge test, verification letter and security clearance. Full conversion rules (GACAR Part 61) could not be opened.",
+  "official_link": "https://gaca.gov.sa/-/media/Files/PDF/LawsAndRegulation/Aviation-Safety-and-Environmental-Sustainability/Forms/03-Temporary-Flight-Authorization-TFA-Application.pdf",
+  "verified": "partly verified 2026-11-05"
+ },
+ {
+  "id": "easa-dgca",
+  "from_authority": "EASA",
+  "to_authority": "DGCA (India)",
+  "route": "Foreign CPL/ATPL conversion via DGCA exams (Pariksha portal)",
+  "key_steps": "Upload foreign ICAO licence, register for a computer number, sit papers per session or on demand (Rs 2,500 per paper, Rs 5,000 on demand). Required subjects, flight checks and RTR not on an official page found (unverified).",
+  "official_link": "https://pariksha.dgca.gov.in/PDFViewer.jsp?pdf=6F8C326FEC34C153B92877E1A963F221",
+  "verified": "partly verified 2026-11-05"
+ }
+]
